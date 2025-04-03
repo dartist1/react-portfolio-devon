@@ -6,7 +6,6 @@ import Technologies from './assets/components/Technologies'
 import Experience from './assets/components/Experience'
 import Projects from './assets/components/Projects'
 import Contact from './assets/components/Contact'
-import StateCity from './assets/components/StateCity'
 
 const App = () => {
   return (
