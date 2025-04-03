@@ -24,7 +24,6 @@ const App = () => {
         <Experience />
         <Projects />
         <Contact />
-        <StateCity />
       </div>
       
     </div>
