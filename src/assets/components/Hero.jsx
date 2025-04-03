@@ -2,7 +2,7 @@
 // w = width
 
 import { HERO_CONTENT } from "../../constants";
-import profilePic from "../../assets/kevinRushProfile.jpg"
+import profilePic from "../../assets/devonArtistProfile.jpg"
 import { motion } from "motion/react";
 
 const container = (delay) => ({
