@@ -34,6 +34,7 @@ export const PROJECTS = [
   {
     title: "Spotify Clone",
     image: project1,
+    link: "https://github.com/dartist1/Stopify",
     description:
       "A fully functional Spotify Clonee with features like playlist, pausing and playing music, and user authentication.",
     technologies: ["HTML", "CSS", "JavaScript"],
@@ -41,6 +42,7 @@ export const PROJECTS = [
   {
     title: "Portfolio Website",
     image: project2,
+    link: "https://github.com/dartist1/react-portfolio-devon",
     description:
       "A personal portfolio website showcasing projects, skills, and contact information.",
     technologies: ["HTML", "CSS", "React", "TailWindCSS"],
@@ -48,6 +50,7 @@ export const PROJECTS = [
   {
     title: "Simple Shooter",
     image: project3,
+    link: "https://github.com/dartist1/Simple-Shooter",
     description:
       "A simple shooting game built in Python.",
     technologies: ["Python", "PyGame"],
