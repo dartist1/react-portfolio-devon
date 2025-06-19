@@ -1,6 +1,7 @@
 import project1 from "../assets/projects/project-1.jpg";
 import project2 from "../assets/projects/project-2.jpg";
 import project3 from "../assets/projects/project-3.jpg";
+import project4 from "../assets/projects/project-4.jpg";
 
 export const HERO_CONTENT = `Results-driven and detail-oriented Frontend Software Engineer with 5+ years of experience specializing in JavaScript, React, and scalable web applications. Proven expertise in delivering high-performance, customer-facing applications and collaborating with cross-functional teams in agile environments. Passionate about optimizing web performance and delivering seamless user experiences.`;
 
@@ -31,6 +32,14 @@ export const EXPERIENCES = [
 ];
 
 export const PROJECTS = [
+  {
+    title: "Quiz App",
+    image: project4,
+    link: "https://github.com/dartist1/Quiz-App",
+    description:
+      "A Quiz application utilizing APIs to get questions and displays them using a GUI",
+    technologies: ["Python"],
+  },
   {
     title: "Spotify Clone",
     image: project1,
